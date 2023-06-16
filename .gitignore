@@ -1,0 +1,10 @@
+.idea
+.vscode
+.vs
+/pyvenv.cfg
+/Scripts/
+/Lib/
+/py_cache
+`1`.py
+test
+xml_files
